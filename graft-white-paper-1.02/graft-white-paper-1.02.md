@@ -119,7 +119,7 @@ While the answer to the first part of this question may consists of several elem
 
 However, there may be additional value. In some cases, merchant might want to know the real identity of the buyer in order to comply with laws and regulations, for example, to make sure the buyer is older than 21 to be allowed to purchase some items. 
 
-Since Graft is both decentralized payment processor and cryptocurrency, it is able to facilitate the full payment cycle without other cryptocurrencies or assets involved. However, in addition to decentralization and right for privacy, there is a freedom of choice which is another important fundamental liberal principle. Moreover, there might be a commercial need for diversity of cryptocurrencies for both buyers and merchants. Therefore, Graft will support Bitcoin and several major cryptocurrencies as additional choice for buyers and acceptable method of payoff for merchants. This feature will eliminate the need for merchant to integrate with multiple (centralized) payment software providers, and for user to sign up for centralized services and learn and maintain multiple wallet apps. It is important to note that merchants will have to accommodate higher risks and additional expenses associated with acceptance of alternative cryptocurrencies due to their slower confirmation times and higher transaction fees. 
+Since Graft is both decentralized payment processor and cryptocurrency, it is able to facilitate the full payment cycle without other cryptocurrencies or assets involved. However, in addition to decentralization and right for privacy, there is a freedom of choice which is another important fundamental liberal principle. Moreover, there might be a commercial need for diversity of cryptocurrencies for both buyers and merchants. Therefore, Graft will support Bitcoin and several major cryptocurrencies as additional choice for buyers and acceptable method of payout for merchants. This feature will eliminate the need for merchant to integrate with multiple (centralized) payment software providers, and for user to sign up for centralized services and learn and maintain multiple wallet apps. It is important to note that merchants will have to accommodate higher risks and additional expenses associated with acceptance of alternative cryptocurrencies due to their slower confirmation times and higher transaction fees. 
 
 # Terminology
 ### Graft 
@@ -345,7 +345,7 @@ Supernodes facilitate the hosting of service Brokers. In fact, the supernode own
 In addition to adding implementation modules to supernodes, Service Brokers may modify the client app source code, or even create their own applications following Graft protocol. These are the types of service brokers: 
 
 * Accept Broker
-* Payoff Broker
+* Payout Broker
 * Top Up Broker
 * Margin Broker
 * Escrow Broker
@@ -358,7 +358,7 @@ In addition to adding implementation modules to supernodes, Service Brokers may 
 * Credit Card accept broker
 * Apple Pay accept broker
 
-**Payout Broker** enables withdrawal from Graft merchant account in bitcoins, altcoins, or local fiat currency. Payoff can be initiated manually or automatically. Examples of payout broker:
+**Payout Broker** enables withdrawal from Graft merchant account in bitcoins, altcoins, or local fiat currency. Payout can be initiated manually or automatically. Examples of payout broker:
 
 * Bank transfer payout broker 
 * PayPal payout broker 
@@ -377,7 +377,7 @@ Merchant can decide to receive their proceeds from transactions in other cryptoc
 
 There are several payout options: graftcoins, original cryptocurrency,  other cryptocurrency, or local fiat currency (Table 3). For each of these options, there are payout broker services available on Graft. When the merchant selects the methods of payment they want to accept and the payout method, the Graft Point of Sale application will prompt with all available broker services options - depending on merchant identity and location attributes - so the merchant can sign up for all desirable broker services. If more than one payout broker service available for the same type of exchange and selected by merchant, the Graft Point of Sale app will automatically select the best offer during the transaction execution. 
 
-**Table 3:** Examples of Variety of Accepted methods of Payments and Payoffs
+**Table 3:** Examples of Variety of Accepted methods of Payments and Payouts
 
 Payment method selected by customer | Payout method selected by merchant | Accept Broker | Payout Broker | Additional Fees
 --- | --- | --- | --- | ---
