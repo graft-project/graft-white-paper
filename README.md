@@ -1,4 +1,7 @@
-Latest whitepaper version 2.01: https://www.graft.network/wp-content/uploads/2018/05/Graft_White_Paper_2.01_May_2018.pdf
+Latest whitepaper version 3.0 (October 2018):
+https://www.graft.network/wp-content/uploads/2018/10/Graft_White_Paper_3.0_October_2018.pdf
+
+
 
 # graft-white-paper
 Graft is a global, open-sourced, blockchain-based, decentralized payment gateway and processing platform
